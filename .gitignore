@@ -1,0 +1,4 @@
+*.bak
+wp-json/
+feed/
+comments/
